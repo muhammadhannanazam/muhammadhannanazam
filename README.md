@@ -3,7 +3,7 @@
 <!-- ============================= -->
 
 <p align="center">
- <img src="https://capsule-render.vercel.app/api?type=waving&color=0:8B0000,100:FF0000&height=200&section=header&text=Muhammad%20Hannan&fontSize=40&fontColor=ffffff&animation=fadeIn&fontAlignY=35" />
+ <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f2027,100:2c5364&height=200&section=header&text=Muhammad%20Hannan&fontSize=40&fontColor=ffffff&animation=fadeIn&fontAlignY=35" />
 </p>
 
 <h3 align="center">🚀 Principal Software Engineer | PHP & Laravel Architect | ERP Specialist</h3>
