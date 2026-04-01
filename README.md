@@ -103,10 +103,6 @@ Currently working as **Principal Software Engineer** at IT Dawat-e-Islami.
 
 # 📊 GitHub Analytics
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=muhammadhannanazam&show_icons=true&theme=tokyonight&hide_border=true" height="165">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=muhammadhannanazam&layout=compact&theme=tokyonight&hide_border=true" height="165">
-</p>
 
 <p align="center">
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=muhammadhannanazam&theme=tokyonight&hide_border=true" />
